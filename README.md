@@ -59,3 +59,4 @@ This visualisation holds alot of significance to me and my heritage, and despite
     - "someones brother"
     - "an aspiring artist"
 - make more visually appealing - transparacy of star to fluctuate so it looks like its shining
+- change colour of "number of children" from yellow to another colour as it is quite hard to see
