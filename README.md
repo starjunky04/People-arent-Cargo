@@ -1,7 +1,7 @@
 # Computational Practices: Visualisation and Sensing Assignment
 ## People aren't Cargo
 
-This is my final project for Data Visualisation and Sensing. It is about slavery in the golden age of piracy. The inspiration came from a deleted scene from Pirates of the Caribbean: At World's End. The portfolio contains more about the topic and the process.
+This is my final project for Data Visualisation and Sensing. It is about slavery in the golden age of piracy. The inspiration came from a deleted scene from Pirates of the Caribbean: At World's End. I plan on developing this project further, this is the first working version.
 
 ### How to use the website:
 
